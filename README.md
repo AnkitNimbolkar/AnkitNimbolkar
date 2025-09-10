@@ -1,68 +1,48 @@
-<!--
-### ✨ Highlight Projects
-<div>
+👨‍💻 About me
 
+I'm a Java-focused developer with strong fundamentals in backend systems and practical full‑stack experience. I'm curious, love clean code, and enjoy building projects that teach me something new — whether it's IoT integrations, blockchain experiments or polished web frontends. When I'm not coding, you'll find me buried in a good book.
 
-**My-Portfolio** — Clean, responsive portfolio website. (React or static HTML)
+Location: Mumbai • Email: nimbolkarofficial02@gmail.com
 
+✨ Highlights — Projects worth checking out
 
-**AI Photo Generator** — React + Spring Boot + OpenAI (image-generation pipeline & storage).
+(Pin these repositories on your profile to make them visible on your GitHub home)
 
+Smart-Shopping-Cart — Hardware + software prototype showing embedded sensors talking to a backend service (IoT proof-of-concept).
 
-**Smart-Shopping-Cart** — Embedded system + backend integration (proof of concept).
+Student-Management-System — Java-based CRUD app demonstrating OOP design, persistence and basic reports.
 
+Solana-Bootcamp-FinalProject — A bootstrap blockchain experiment from a Solana bootcamp — smart contract & tooling exposure.
 
-</div>
+Tic_Tac_Toe-Game — Clean Java console game that showcases algorithms and gameplay logic.
 
+My-Portfolio — Personal website (HTML/React) to display projects & resume.
 
-> Tip: pin 4 projects — pick one from each skill bucket (frontend, backend, tools, experimental).
+🛠️ Tech stack & Tools
 
+Java • Spring • Node.js • React • JavaScript • HTML/CSS • PostgreSQL • Oracle • Git
 
----
+Other tools: GitHub, Maven/Gradle, basic embedded/IoT toolchains (Arduino/ESP style)
 
+📊 GitHub at a glance
+🔎 Quick links
 
-### 📫 Contact
-- Email: [nimbolkarofficial02@gmail.com](mailto:nimbolkarofficial02@gmail.com)
-- LinkedIn: [linkedin.com/in/ankitnimbolkar](https://www.linkedin.com/in/ankitnimbolkar)
-- Portfolio: `https://AnkitNimbolkar.github.io/My-Portfolio` (replace if website exists)
+Resume: Add resume.pdf to this repo root and link it here: ./resume.pdf
 
+LinkedIn: https://www.linkedin.com/in/ankitnimbolkar
 
----
+LeetCode: https://leetcode.com/AnkitNimbolkar
 
+HackerRank: https://www.hackerrank.com/AnkitNimbolkar
 
-### 📈 GitHub at a glance
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AnkitNimbolkar&show_icons=true&count_private=true&theme=default" alt="GitHub Stats" />
-</p>
+🚀 What I'm learning
 
+Improving cloud deployment & containerization skills (Docker basics)
 
----
+Applying OpenAI APIs in small projects (e.g., AI Photo Generator)
 
+Exploring blockchain basics with Solana
 
-### 🧭 What I bring
-- Strong fundamentals in Java and backend architecture
-- Practical full-stack experience (React + REST APIs)
-- Curious: I rapidly learn new libraries and apply them in small projects
-- Collaborative: clear PRs, readable commits, and helpful issues
+📬 Hire / Collaborate / Contact
 
-
----
-
-
-### ⚡ Quick Links
-- Resume — `resume.pdf` (place in repo root)
-- Projects — `My-Portfolio`, `AI-Photo-Generator`, `Smart-Shopping-Cart`
-- Blog — add link if you have one
-
-
----
-
-
-### 📌 How to use this README
-1. Replace the hero GIF (or remove the `<img>` block). A simple screenshot is fine.
-2. Update projects with 1-line descriptions and live/demo links.
-3. Add a `resume.pdf` to the repo root and link it under Quick Links.
-4. Pin the four projects mentioned above to your GitHub profile.
-
-
----
+I'm open to internships, collaborations, and mentorship opportunities. The fastest way to reach me is by email: nimbolkarofficial02@gmail.com
