@@ -31,12 +31,11 @@ I'm a Java-focused developer who builds backend systems and full-stack applicati
 
 | Project | Description | Tech |
 |---|---|---|
-| [Smart-Shopping-Cart](https://github.com/AnkitNimbolkar/Smart-Shopping-Cart) | IoT prototype: embedded sensors + backend service (real-time data). | Java • REST • Embedded |
-| [Student-Management-System](https://github.com/AnkitNimbolkar/Student-Management-System) | Java CRUD app with persistence & simple reports. | Java • JDBC • MySQL |
-| [Solana-Bootcamp-FinalProject](https://github.com/AnkitNimbolkar/Solana-Bootcamp-FinalProject) | Blockchain experiment — smart contracts & tooling. | Solana • Rust • Web3 |
-| [Tic_Tac_Toe-Game](https://github.com/AnkitNimbolkar/Tic_Tac_Toe-Game) | Java console game demonstrating algorithms and clean logic. | Java • Algorithms |
+| [AI-Photo-Generator-App](https://github.com/AnkitNimbolkar/AI-Photo-Generator-App) | A web app that generates AI-based images using prompts. | JavaScript • React • OpenAI API |
+| [Ai_ChatBot](https://github.com/AnkitNimbolkar/Ai_ChatBot) | Interactive chatbot powered by AI for real-time Q&A. | JavaScript • Node.js • NLP |
+| [Car-Rental-Service](https://github.com/AnkitNimbolkar/Car-Rental-Service) | Car rental system for managing vehicles, bookings & users. | JavaScript • Web App |
+| [Comfy-Shoppe](https://github.com/AnkitNimbolkar/Comfy-Shoppe) | E-commerce site for home aesthetics & comfort items. | JavaScript • Frontend • UI/UX |
 
-*Tip: Pin 4 projects on your profile (Profile → Customize → Pin repositories).*
 
 ---
 
