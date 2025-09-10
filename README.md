@@ -16,28 +16,7 @@
 
 ## 🚀 Featured Projects 
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>📸 <a href="https://github.com/AnkitNimbolkar/AI-Photo-Generator-App">AI Photo Generator App</a></h3>
-      <p align="justify">⚡ Create stunning AI-generated photos using <b>React + Spring Boot + OpenAI API + PostgreSQL</b>. A modern full-stack application blending AI with seamless UI/UX.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Stack-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB" />
-        <img src="https://img.shields.io/badge/Backend-SpringBoot-green?logo=springboot" />
-        <img src="https://img.shields.io/badge/Database-PostgreSQL-blue?logo=postgresql" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3>🤖 <a href="https://github.com/AnkitNimbolkar/Ai_ChatBot">AI ChatBot</a></h3>
-      <p align="justify">💬 An interactive AI-powered chatbot built with <b>JavaScript</b> for smart, real-time conversations. Lightweight, fast, and extendable for multiple use cases.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Language-JavaScript-yellow?logo=javascript" />
-        <img src="https://img.shields.io/badge/Type-ChatBot-blueviolet?style=flat" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-   ## 🚀 Featured Projects  
+## 🚀 Featured Projects  
 
 <table>
   <tr>
@@ -78,8 +57,6 @@
     </td>
   </tr>
 </table>
-
-
 
 ---
 
