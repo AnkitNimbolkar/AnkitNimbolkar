@@ -14,34 +14,42 @@
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Featured Projects 
 
 <table>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/AnkitNimbolkar/AI-Photo-Generator-App">📸 AI Photo Generator App</a></h3>
-      <p>⚡ Create stunning AI-generated photos using React + Spring Boot + OpenAI API + PostgreSQL.</p>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnkitNimbolkar&repo=AI-Photo-Generator-App&theme=radical" />
+      <h3>📸 <a href="https://github.com/AnkitNimbolkar/AI-Photo-Generator-App">AI Photo Generator App</a></h3>
+      <p align="justify">⚡ Create stunning AI-generated photos using <b>React + Spring Boot + OpenAI API + PostgreSQL</b>. A modern full-stack application blending AI with seamless UI/UX.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Stack-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB" />
+        <img src="https://img.shields.io/badge/Backend-SpringBoot-green?logo=springboot" />
+        <img src="https://img.shields.io/badge/Database-PostgreSQL-blue?logo=postgresql" />
+      </p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/AnkitNimbolkar/Ai_ChatBot">🤖 AI ChatBot</a></h3>
-      <p>💬 Interactive AI-powered chatbot built with JavaScript for smart conversations.</p>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnkitNimbolkar&repo=Ai_ChatBot&theme=radical" />
+      <h3>🤖 <a href="https://github.com/AnkitNimbolkar/Ai_ChatBot">AI ChatBot</a></h3>
+      <p align="justify">💬 An interactive AI-powered chatbot built with <b>JavaScript</b> for smart, real-time conversations. Lightweight, fast, and extendable for multiple use cases.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Language-JavaScript-yellow?logo=javascript" />
+        <img src="https://img.shields.io/badge/Type-ChatBot-blueviolet?style=flat" />
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/AnkitNimbolkar/Car-Rental-Service">🚗 Car Rental Service</a></h3>
+      <h3>🚗 <a href="https://github.com/AnkitNimbolkar/Car-Rental-Service">Car Rental Service</a></h3>
       <p>🏎️ A robust car rental system with booking, management, and billing features.</p>
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnkitNimbolkar&repo=Car-Rental-Service&theme=radical" />
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/AnkitNimbolkar/Comfy-Shoppe">🛒 Comfy Shoppe</a></h3>
+      <h3>🛒 <a href="https://github.com/AnkitNimbolkar/Comfy-Shoppe">Comfy Shoppe</a></h3>
       <p>🛋️ An ecommerce website for home aesthetic and comfort items.</p>
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnkitNimbolkar&repo=Comfy-Shoppe&theme=radical" />
     </td>
   </tr>
 </table>
+
 
 ---
 
