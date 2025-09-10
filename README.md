@@ -15,7 +15,7 @@
   <a href="mailto:nimbolkarofficial02@gmail.com"><img alt="email" src="https://img.shields.io/badge/Email-nimbolkarofficial02%40gmail.com-0078D4?logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ankitnimbolkar"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-Ankit-0A66C2?logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/AnkitNimbolkar"><img alt="github" src="https://img.shields.io/badge/GitHub-AnkitNimbolkar-181717?logo=github&logoColor=white" /></a>
-  <span style="display:inline-block;margin-left:6px;padding:4px 8px;background:#10b981;color:white;border-radius:8px;font-weight:600;">Open to opportunities</span>
+   <img alt="Status" src="https://img.shields.io/badge/Status-Open%20to%20opportunities-green" />
 </p>
 
 ---
