@@ -7,7 +7,7 @@
 <p align="center"><em>Java & Full-Stack Developer • B.Tech (E&TC) • M.Tech (C.S.) aspirant at VJTI</em></p>
 
 <p align="center">
-  <img alt="Top languages" src="https://img.shields.io/github/languages/top/AnkitNimbolkar?logo=github" />
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitNimbolkar&layout=compact&theme=default" />
   <img alt="Repo size" src="https://img.shields.io/github/repo-size/AnkitNimbolkar/AnkitNimbolkar" />
   <img alt="Last commit" src="https://img.shields.io/github/last-commit/AnkitNimbolkar/AnkitNimbolkar" />
   <img alt="Status" src="https://img.shields.io/badge/Status-Open%20to%20opportunities-green" />
